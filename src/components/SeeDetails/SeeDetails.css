@@ -1,0 +1,46 @@
+.see-details-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.see-details-container h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.see-details-container p {
+  font-size: 1.2em;
+  color: #555;
+  margin: 10px 0;
+}
+
+.see-details-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.loading-message, .error-message, .no-player-message {
+  font-size: 1.5em;
+  color: #ff0000;
+  margin-top: 20px;
+}
+
+.error-message {
+  color: #d9534f;
+}
+
+.no-player-message {
+  color: #5bc0de;
+}
+
+strong {
+  color: #333;
+}

@@ -1,0 +1,45 @@
+.create-player-form {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .create-player-form h2 {
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .create-player-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .create-player-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .create-player-form button {
+    background-color: #5bc0de;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-player-form button:hover {
+    background-color: #31b0d5;
+  }
+  
+  .create-player-form button:active {
+    background-color: #2aabd2;
+  }
